@@ -1,0 +1,4 @@
+#Thu Mar 01 00:51:48 PKT 2018
+base.0=/Users/mac/Desktop/work/react-native/Assignment/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/mac/Desktop/work/react-native/Assignment/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
